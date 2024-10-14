@@ -1,5 +1,3 @@
-# stunning-octo-umbrella
-
 # Stunning Octo Umbrella
 
 C++ project scaffolding for embedded systems.
@@ -33,7 +31,6 @@ To create a release build:
 make release
 ```
 
-
 ### Running Tests
 
 ```sh
@@ -64,4 +61,3 @@ pre-commit run --all-files
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-```
